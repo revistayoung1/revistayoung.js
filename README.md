@@ -1,1 +1,0 @@
-# revistayoung.js
